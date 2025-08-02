@@ -3,28 +3,28 @@ A stopwatch is a tool used to measure how much time has passed from the moment y
 The stopwatch lets you start, stop, and reset the time.
 Time is shown in this format: HH:MM:SS (like 00:05:12).
 <br>
-"HTML creates the layout:"
+-->HTML creates the layout:
 <br>
-A title ("Stopwatch")
+-A title ("Stopwatch")
 <br>
-A time display
+-A time display
 <br>
-Three buttons (Start, Stop, Reset)
+-Three buttons (Start, Stop, Reset)
 <br>
-CSS makes it look clean:
+-->CSS makes it look clean:
 <br>
-Centers everything
+-Centers everything
 <br>
-Adds button colors (green, red, blue)
+-Adds button colors (green, red, blue)
 <br>
-Makes the display big and bold
+-Makes the display big and bold
 <br>
-JavaScript adds the working logic:
+-->JavaScript adds the working logic:
 <br>
-start() begins counting every second
+-start() begins counting every second
 <br>
-stop() pauses the stopwatch
+-stop() pauses the stopwatch
 <br>
-reset() stops and sets the time back to zero
+-reset() stops and sets the time back to zero
 <br>
-Time is updated on the screen in real time
+-Time is updated on the screen in real time
